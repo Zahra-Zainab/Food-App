@@ -51,29 +51,33 @@ food-app/
 ├── .env
 ├── package.json
 └── README.md
-
----
+````
 
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
-
 - Node.js
 - npm
 
 ##🔧Installation
 
+1. Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/Zahra-Zainab/food-app.git
+````
 
-# Go to the project directory
+2. Go to the project directory
+```bash
 cd food-app
+````
 
-# Install dependencies
+3. Install dependencies
+```bash
 npm install
+````
 
-# Start the development server
+4. Start the development server
+```bash
 npm start
 ````
 
@@ -96,14 +100,10 @@ Create a `.env` file in your root project directory and add:
 REACT_APP_SPOONACULAR_API_KEY=your_api_key_here
 ```
 
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to `fork` the repo and submit a pull request.
-
----
 
 ## 📬 Contact
 
