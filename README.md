@@ -1,9 +1,4 @@
-Thanks for your patience! Here's the **complete and 100% correct `README.md`** for your **Food App** — all in one block, fully formatted, clean, and copy-ready:
-
----
-
-```markdown
-# 🍽️ Food-App
+# 🍽️Food-App
 
 A modern and responsive food recipe application built with **ReactJS**, **CSS**, and **JavaScript**, powered by the **Spoonacular API**. Search, explore, and discover delicious meals with ease.
 
@@ -11,12 +6,11 @@ A modern and responsive food recipe application built with **ReactJS**, **CSS**,
 
 ## ⚙️ Tech Stack
 
-- ⚛️ ReactJS (with Hooks)  
-- 🎨 CSS Modules  
-- 🧠 JavaScript (ES6+)  
-- 🌐 Spoonacular API  
+- ReactJS (with Hooks)  
+- CSS Modules  
+- JavaScript (ES6+)  
+- Spoonacular API  
 
----
 
 ## 📱 Features
 
@@ -27,13 +21,12 @@ A modern and responsive food recipe application built with **ReactJS**, **CSS**,
 - ⚡ Built with React Hooks, Axios, and modular component structure  
 
 ---
-
 ## 📁 Project Structure
 
-```
-
+```bash
 food-app/
-│── index.html
+├── public/
+│   └── index.html
 ├── src/
 │   ├── components/
 │   │   ├── Container.jsx
@@ -55,9 +48,9 @@ food-app/
 │   ├── App.jsx
 │   ├── App.css
 │   └── main.jsx
-└── package.json
-
-````
+├── .env
+├── package.json
+└── README.md
 
 ---
 
@@ -68,7 +61,7 @@ food-app/
 - Node.js
 - npm
 
-### 🔧 Installation
+##🔧Installation
 
 ```bash
 # Clone the repository
