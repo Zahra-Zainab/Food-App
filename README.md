@@ -4,7 +4,7 @@ A modern and responsive food recipe application built with **ReactJS**, **CSS**,
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - ReactJS (with Hooks)  
 - CSS Modules  
@@ -52,7 +52,6 @@ food-app/
 ├── package.json
 └── README.md
 
----
 
 ## 🚀 Getting Started
 
@@ -109,7 +108,6 @@ Feel free to `fork` the repo and submit a pull request.
 ## 📬 Contact
 
 * 📧 Email: [zahra.zainab1166@gmail.com](mailto:zahra.zainab1166@gmail.com)
-* 🐙 GitHub: [Zahra-Zainab](https://github.com/Zahra-Zainab)
 
 ---
 
