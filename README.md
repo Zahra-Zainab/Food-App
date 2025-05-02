@@ -2,7 +2,6 @@
 
 A modern and responsive food recipe application built with **ReactJS**, **CSS**, and **JavaScript**, powered by the **Spoonacular API**. Search, explore, and discover delicious meals with ease.
 
----
 
 ## Tech Stack
 
