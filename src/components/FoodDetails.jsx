@@ -7,7 +7,7 @@ export default function FoodDetails({ foodId }) {
   const [isLoading, setIsLoading] = useState(true);
 
   const URL = `https://api.spoonacular.com/recipes/${foodId}/information`;
-  const API_KEY = "b9f5cde2a94041279aff4590499af0ec";
+  const API_KEY = "Your_API_Key";
 
   //To make API call:
   useEffect(() => {
