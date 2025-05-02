@@ -52,6 +52,7 @@ food-app/
 ├── package.json
 └── README.md
 
+---
 
 ## 🚀 Getting Started
 
@@ -78,7 +79,6 @@ npm start
 
 Visit **[http://localhost:3000](http://localhost:3000)** in your browser.
 
----
 
 ## 🔑 Spoonacular API Setup
 
