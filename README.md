@@ -1,92 +1,127 @@
+Thanks for your patience! Here's the **complete and 100% correct `README.md`** for your **Food App** — all in one block, fully formatted, clean, and copy-ready:
+
+---
+
+```markdown
 # 🍽️ Food-App
 
 A modern and responsive food recipe application built with **ReactJS**, **CSS**, and **JavaScript**, powered by the **Spoonacular API**. Search, explore, and discover delicious meals with ease.
 
+---
+
 ## ⚙️ Tech Stack
 
-- ⚛️ ReactJS (with Hooks)
-- 🎨 CSS
-- 🧠 JavaScript (ES6+)
-- 🌐 Spoonacular API
+- ⚛️ ReactJS (with Hooks)  
+- 🎨 CSS Modules  
+- 🧠 JavaScript (ES6+)  
+- 🌐 Spoonacular API  
+
+---
 
 ## 📱 Features
 
 - 🔍 **Search Recipes** by name or ingredients  
-- 📋 **Recipe Details** including ingredients, instructions, and nutrition info  
-- ❤️ Add to **Favorites** (optional)  
-- 📱 Fully **Responsive UI**  
-- ⚡ Powered by **React Hooks**, **Axios**, and dynamic rendering
+- 📋 **View Recipe Details**: ingredients, instructions, nutrition info  
+- ❤️ Add to **Favorites** *(optional feature)*  
+- 📱 **Responsive UI**  
+- ⚡ Built with React Hooks, Axios, and modular component structure  
+
+---
 
 ## 📁 Project Structure
+
+```
+
 food-app/
 │── index.html
 ├── src/
-│ ├── components/
-│ │ ├── Container.jsx
-│ │ ├── FoodDetails.jsx
-│ │ ├── FoodItem.jsx
-│ │ ├── FoodList.jsx
-│ │ ├── InnerContainer.jsx
-│ │ ├── Item.jsx
-│ │ ├── ItemList.jsx
-│ │ ├── Nav.jsx
-│ │ ├── Search.jsx
-│ │ ├── container.module.css
-│ │ ├── foodDetails.module.css
-│ │ ├── fooditem.module.css
-│ │ ├── innerContainer.module.css
-│ │ ├── item.module.css
-│ │ ├── nav.module.css
-│ │ └── search.module.css
-│ ├── App.jsx
-│ ├── App.css
-│ └── main.jsx
+│   ├── components/
+│   │   ├── Container.jsx
+│   │   ├── FoodDetails.jsx
+│   │   ├── FoodItem.jsx
+│   │   ├── FoodList.jsx
+│   │   ├── InnerContainer.jsx
+│   │   ├── Item.jsx
+│   │   ├── ItemList.jsx
+│   │   ├── Nav.jsx
+│   │   ├── Search.jsx
+│   │   ├── container.module.css
+│   │   ├── foodDetails.module.css
+│   │   ├── fooditem.module.css
+│   │   ├── innerContainer.module.css
+│   │   ├── item.module.css
+│   │   ├── nav.module.css
+│   │   └── search.module.css
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
 └── package.json
+
+````
+
+---
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### ✅ Prerequisites
 
-Make sure you have **Node.js** and **npm** installed on your system.
+- Node.js
+- npm
 
-### Installation
-
-1. Clone the repository:
+### 🔧 Installation
 
 ```bash
+# Clone the repository
 git clone https://github.com/Zahra-Zainab/food-app.git
 
-2. Navigate to the project folder:
-```bash
+# Go to the project directory
 cd food-app
 
-3. Install dependencies:
-```bash
+# Install dependencies
 npm install
 
-4. Start the development server:
-```bash
+# Start the development server
 npm start
+````
 
-Visit **http://localhost:3000** to view the app in your browser.
+Visit **[http://localhost:3000](http://localhost:3000)** in your browser.
 
-🔑 Spoonacular API Setup
+---
+
+## 🔑 Spoonacular API Setup
+
 This app uses the Spoonacular API to fetch recipe data.
 
-Get Your API Key
-Sign up for a free API key here:
-👉 https://spoonacular.com/food-api
+### Get an API Key
 
-Set Up Environment Variables
-Create a .env file in the root directory of your project:
-```bash
+Sign up here: [Spoonacular API](https://spoonacular.com/food-api)
+
+### Set up `.env` file
+
+Create a `.env` file in your root project directory and add:
+
+```env
 REACT_APP_SPOONACULAR_API_KEY=your_api_key_here
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to `fork` the repo and submit a pull request.
+
+---
+
+## 📬 Contact
+
+* 📧 Email: [zahra.zainab1166@gmail.com](mailto:zahra.zainab1166@gmail.com)
+* 🐙 GitHub: [Zahra-Zainab](https://github.com/Zahra-Zainab)
+
+---
+
+## ⭐ Show Your Support
+
+If you like this project, don't forget to give it a ⭐ and share it!
 
 
-🤝 Contributing
-Contributions are welcome! Fork the repo and submit a pull request.
-
-📬 Contact
-📧 Email: zahra.zainab1166@gmail.com
-
-⭐ If you like this project, give it a star and share it with others!
