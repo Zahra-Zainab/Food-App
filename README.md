@@ -19,7 +19,6 @@ A modern and responsive food recipe application built with **ReactJS**, **CSS**,
 - 📱 **Responsive UI**  
 - ⚡ Built with React Hooks, Axios, and modular component structure  
 
----
 ## 📁 Project Structure
 
 ```bash
